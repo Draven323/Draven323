@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" />
+  <a href="https://github.com/Draven323">
+    <img src="https://img.shields.io/github/followers/Draven323?label=Followers&style=for-the-badge&color=blue" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/Draven323?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Open%20Source-success?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Draven323&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ```java
 public class Developer {
 
-    private final String name = "YOUR_NAME";
+    private final String name = "Draven323";
     private final String role = "Java Developer / Backend Architect";
     private final String[] focus = {
         "Java",
